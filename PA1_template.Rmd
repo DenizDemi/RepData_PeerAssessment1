@@ -7,9 +7,9 @@ output:
 ---
 
 ## Introduction 
-This is the first assignment of the course *Reproducable Research*.
+This is the first assignment of the course *Reproducible Research*.
 
-Data for this assignment is downloaded from the course website at [Dataset] (https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip)
+Data for this assignment is downloaded from the course website at  https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip
 
 The data set is in a CSV file and consists of steps, date and interval variables. 
 

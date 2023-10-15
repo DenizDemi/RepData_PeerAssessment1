@@ -1,5 +1,5 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"
+title: "Reproducible Research Peer Assessment 1"
 author: "Deniz D."
 output: 
   html_document:
@@ -189,3 +189,4 @@ ggplot(allsteps, aes(x= interval, y = mean_steps)) +
 ![](PA1_template_files/figure-html/weekplot-1.png)<!-- -->
 
 The highest peak for activity is on a weekday, however overall weekend has more peaks, indicating longer and more intense activities in the weekend, as can be inferred from the above graph. 
+
